@@ -27,7 +27,7 @@ body {
 #header{
     width: 100%;
     height: 80vh;
-    background-image: url(/Images/linked.jpeg); 
+    background-image: url(../Images/linked.jpeg); 
     background-size: contain;
     background-position: right center;
     background-repeat: no-repeat;
